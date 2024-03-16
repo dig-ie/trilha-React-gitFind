@@ -24,7 +24,8 @@ Na prática, o código adota padrões **anteriores à popularização de Hooks, 
 
 ### Tela inicial
 
-![image](/public/gitfolio_home_screen.png)
+![image](/public/home_before_search.png)
+
 
 ---
 
@@ -32,13 +33,7 @@ Na prática, o código adota padrões **anteriores à popularização de Hooks, 
 
 O app consome a **API pública do GitHub**, listando o usuário e seus repositórios com base no username informado.
 
-![GITFIND_SEARCH](https://github.com/dig-ie/trilha-react-gitFind/assets/101150281/be806670-2346-4831-b086-ada931ec0d2d)
-
----
-
-### Registro histórico (versão antiga da UI)
-
-![image](https://github.com/dig-ie/trilha-react-gitFind/assets/101150281/3c69754e-bde8-4f87-be83-2c0e030155ca)
+![image](/public/gitfolio_home_screen.png)
 
 ---
 

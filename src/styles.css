@@ -23,7 +23,7 @@ body {
 }
 
 .ContentWrapper {
-  margin-left: 40vw;
+  margin-left: 30vw;
   display: flex;
   flex-direction: column;
   justify-content: center;

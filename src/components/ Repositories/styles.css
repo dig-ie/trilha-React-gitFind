@@ -1,7 +1,7 @@
 .RepositorieLink {
-  text-decoration: none; /* Remove sublinhado */
-  color: inherit; /* Herda a cor do pai (normalmente preto) */
-  cursor: pointer; /* Altera o cursor para indicar que é clicável */
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 
 .RepositorieLink a:hover {
@@ -11,7 +11,6 @@
 .RepositorieLink,
 a:active,
 a:focus {
-  /* Remove estilos adicionais para efeitos de hover, clique e foco */
   text-decoration: none;
   color: inherit;
   outline: none;
